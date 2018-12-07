@@ -12076,11 +12076,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexa\\Desktop\\CIDM3312-Fall2018-InClass-master\\cidm3312-fall2018-inclass-master\\bufftekswebsite\\BuffteksWebsite.csproj",
+      "projectUniqueName": "C:\\Users\\alexa\\Desktop\\STARTING POINT\\BuffteksWebsite.csproj",
       "projectName": "BuffteksWebsite",
-      "projectPath": "C:\\Users\\alexa\\Desktop\\CIDM3312-Fall2018-InClass-master\\cidm3312-fall2018-inclass-master\\bufftekswebsite\\BuffteksWebsite.csproj",
+      "projectPath": "C:\\Users\\alexa\\Desktop\\STARTING POINT\\BuffteksWebsite.csproj",
       "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexa\\Desktop\\CIDM3312-Fall2018-InClass-master\\cidm3312-fall2018-inclass-master\\bufftekswebsite\\obj\\",
+      "outputPath": "C:\\Users\\alexa\\Desktop\\STARTING POINT\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

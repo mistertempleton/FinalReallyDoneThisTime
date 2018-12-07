@@ -83,9 +83,9 @@ namespace BuffteksWebsite.Models
 
                 var projects = new List<Project>
                 {
-                    new Project { ProjectName="The Big One", ProjectDescription="The One Project to rule them all" },
-                    new Project { ProjectName="Awesome", ProjectDescription="This project is awesome" },
-                    new Project { ProjectName="Easy Project", ProjectDescription="This project is so easy, it completes itself" }
+                    new Project { ProjectName="Build a Website", ProjectDescription="Customer wants site to rival Amazon on a budget of -$0." },
+                    new Project { ProjectName="Build a game", ProjectDescription="Bethesda needs help fixing Fallout 76." },
+                    new Project { ProjectName="Build a new internet", ProjectDescription="The one we have now is lame, so we should start over." }
                 };
                 context.AddRange(projects);
                 context.SaveChanges();
